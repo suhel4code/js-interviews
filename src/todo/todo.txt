@@ -1,0 +1,18 @@
+// servie workers
+
+
+// Web workers
+
+// Server sent events
+
+// GetModifier state
+
+// Event Delegation
+
+// random numbers in deep
+
+// __proto__ and prototype
+
+// Proxy Methods
+
+
